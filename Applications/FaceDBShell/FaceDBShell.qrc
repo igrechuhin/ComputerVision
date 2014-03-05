@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/FaceDBShell">
+        <file>Resources/info50x50.png</file>
+        <file>Resources/warning50x50.png</file>
+        <file>Resources/error50x50.png</file>
+    </qresource>
+</RCC>
